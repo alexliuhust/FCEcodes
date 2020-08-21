@@ -1,0 +1,6 @@
+﻿  HWK04.cpp
+C:\Users\liu.zehu\Documents\Fund_of_Comp_Engr\FCE HWK\HWK  04\HWK04_Proj\HWK04.cpp(2,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\liu.zehu\Documents\Fund_of_Comp_Engr\FCE HWK\HWK  04\HWK04_Proj\HWK04.cpp(3,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\liu.zehu\Documents\Fund_of_Comp_Engr\FCE HWK\HWK  04\HWK04_Proj\HWK04.cpp(218,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\liu.zehu\Documents\Fund_of_Comp_Engr\FCE HWK\HWK  04\HWK04_Proj\HWK04.cpp(252,11): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+  HWK04_Proj.vcxproj -> C:\Users\liu.zehu\Documents\Fund_of_Comp_Engr\FCE HWK\HWK  04\HWK04_Proj\Debug\HWK04_Proj.exe
